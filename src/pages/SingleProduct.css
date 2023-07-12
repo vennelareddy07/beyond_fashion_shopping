@@ -1,0 +1,36 @@
+.singleproduct{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 60vh;
+    margin-top: 5%;
+}
+.imgparents{
+    width: 40%;
+    
+}
+.singleproductimg{
+    width: 70%;
+    height: 70vh;
+    margin-left: 7%;
+}
+.productdetail{
+    width: 50%;
+    background-color: aquamarine;
+    align-items: center;
+    border: 2px solid rgb(104, 100, 100);
+    box-shadow: 0px 0px 3px 3px;
+    
+}
+.productdetail div{
+    margin-left: 5px;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+.productdetail button{
+    padding: 4px;
+    margin-top: 20px;
+    margin-left: 5px;
+    box-sizing: border-box;
+    
+    box-shadow: 0px 0px 5px 5px whitesmoke;
+}

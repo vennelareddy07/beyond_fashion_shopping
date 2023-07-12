@@ -1,0 +1,12 @@
+.short{
+    padding-left: 10px;
+    
+    font-weight: 500;
+}
+input{
+    padding-left: 10px;
+}
+.rating{
+    margin-top: 7%;
+    margin-bottom: 3%;
+}

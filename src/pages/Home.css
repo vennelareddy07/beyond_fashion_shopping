@@ -1,0 +1,13 @@
+.flex_box{
+    display: flex;
+    width: 100%;
+}
+.filter_box{
+    width:18%;
+    border: 1px solid black;
+    
+}
+.CBOX{
+    width: 80%;
+    /* border: 1PX SOLID GREEN; */
+}
